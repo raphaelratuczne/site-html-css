@@ -1,0 +1,18 @@
+body {
+  font-family: 'Cabin', sans-serif, OpenSans;
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+
+.main {
+  width: 100%;
+  max-width: 1386px;
+  min-width: 1000px;
+  margin: 0px auto;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+}
